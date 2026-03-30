@@ -1,11 +1,9 @@
 # 2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
 
 **Aim:**
-
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
 **Equipment and Component:**
-
 1.	Klystron power supply MTI KP 503
 2.	Klystron tube /2k25
 3.	Isolator MTI/ NVIS- 204
@@ -55,7 +53,9 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+<img width="964" height="375" alt="image" src="https://github.com/user-attachments/assets/455c8c21-2da7-4c85-b8f2-b874ff005b81" />
+<img width="1183" height="1511" alt="image" src="https://github.com/user-attachments/assets/6c7205e1-6b8f-4be7-a07b-59042b93bbe4" />
+
 
 **CALCULATIONS:**
 
@@ -76,8 +76,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
-   	
+**Result:**
+ Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
 			
 			
 			
